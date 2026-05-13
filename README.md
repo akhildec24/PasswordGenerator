@@ -1,6 +1,6 @@
 # Password Generator
 
-A minimal, single-page password generator built with React + Vite. Inspired by the LastPass password generator, designed around Dieter Rams' principles of good design — useful, honest, unobtrusive, and as little design as possible.
+A minimal, single-page password generator built with React + Vite. Inspired by the LastPass password generator.
 
 ## Features
 
